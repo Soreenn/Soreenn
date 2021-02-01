@@ -7,4 +7,4 @@ Anyway, i think that i will set some news about this project here, if i get moti
 
 -----
 
-## Project stated : Not yet.
+## Project started : Not yet.
