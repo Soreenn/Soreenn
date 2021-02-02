@@ -1,4 +1,4 @@
-# :star: Welcome to you ! :)
+# - Welcome to you !
 
 Hi, I am a seventeen year old student studying at the CPNV. For now, I don’t have any projects yet. Mainly because I need to learn the basics first.
 
@@ -8,7 +8,7 @@ I will put some news about my projects here. Don’t hesitate to take a look at 
 
 Thank you for your attention!
 
-# :star: Objectives :
+# - Objectives :
 
 - [X] Finish profile README
 - [ ] Finish Github personal site
