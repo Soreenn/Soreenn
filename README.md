@@ -11,5 +11,4 @@ Anyway, i think that i will set some news about this project here, if i get moti
 - [ ] Finish Github personal site
 - [ ] Start blog project
 
-
-[MadScientistee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadScientistee&show_icons=true&theme=dracula)
+[[MadScientistee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadScientistee&show_icons=true&theme=dracula)]
