@@ -11,4 +11,7 @@ Anyway, i think that i will set some news about this project here, if i get moti
 - [ ] Finish Github personal site
 - [ ] Start blog project
 
+# :star: Github Stats :
+
 [![Soren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soreenn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soreenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
