@@ -14,7 +14,7 @@ Thank you for your attention!
 - [ ] Finish Github personal site
 - [ ] Start blog project
 
-# :star: Github Stats :
+# * Github Stats :
 
 [![Soren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soreenn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)     
      
