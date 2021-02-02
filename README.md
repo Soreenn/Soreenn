@@ -1,9 +1,12 @@
 # :star: Welcome to you ! :)
 
-I'm a 2nd year student at the CPNV and i'm actually 17 years old. I doesn't have any project yet, because i need to learn some basics, but that's okay, i'm having fun with it.  
+Hi, I am a seventeen year old student studying at the CPNV. For now, I don’t have any projects yet. Mainly because I need to learn the basics first.
 
-I'm trying to get better almost everyday, one day i will create blogs or something like that, that's a good start, i think...
-Anyway, i think that i will set some news about this project here, if i get motivated to do it. :(
+But I'm trying to get better everyday and hopefully one day I will create my own blogs. I think blogs are a good start. 
+
+I will put some news about my projects here. Don’t hesitate to take a look at them! 
+
+Thank you for your attention!
 
 # :star: Objectives :
 
