@@ -11,6 +11,7 @@ Thank you for your attention!
 # - Objectives :
 
 - [X] Finish profile README
+- [ ] Survive the second year (in progess...)
 - [ ] Finish Github personal site
 - [ ] Start blog project
 
