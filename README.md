@@ -11,7 +11,6 @@ Thank you for your attention!
 # - Objectives :
 
 - [X] Finish profile README
-- [ ] Finish Github personal site
 - [ ] Start blog project
 
 # - Github Stats :
