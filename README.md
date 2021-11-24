@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/uk4S0Os.png)
+
 # - Welcome to you !
 
 Hi, I am a seventeen year old student studying at the CPNV. For now, I don’t have any projects yet. Mainly because I need to learn the basics first.
