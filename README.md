@@ -12,7 +12,7 @@ Thank you for your attention!
 
 # - Objectives :
 
-- [] Dev a usefull Discord bot
+- [ ] Dev a usefull Discord bot
 
 # - Github Stats :
 
