@@ -8,6 +8,8 @@ But I'm trying to get better everyday and hopefully one day I will create my own
 
 I will put some news about my projects here. Don’t hesitate to take a look at them! 
 
+I have a lot of project that I want to make public, but I was too retarded to make a .env file.
+
 Thank you for your attention!
 
 # - Objectives :
