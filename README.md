@@ -14,8 +14,8 @@ Thank you for your attention!
 
 # - Objectives :
 
-- [ ] Dev a usefull Discord bot
-- [ ] Get a verified Discord bot
+- [X] Dev a usefull Discord bot
+- [X] Get a verified Discord bot
 - [ ] Publish my own website with Laravel
 
 # - Github Stats :
