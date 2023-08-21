@@ -1,21 +1,17 @@
-![alt text](https://i.imgur.com/uk4S0Os.png)
-
-# - Welcome to you !
-
 Hi, I am a nineteen year old. For now, I don’t have any projects yet. Mainly because I need to learn the basics first.
 
 But I'm trying to get better everyday and hopefully one day I will create my own blogs. I think blogs are a good start. 
 
 I will put some news about my projects here. Don’t hesitate to take a look at them! 
 
-I have a lot of project that I want to make public, but I was too retarded to make a .env file.
+I have a lot of project that I want to make public, but it need some modifications like adding .env files.
 
 Thank you for your attention!
 
 # - Objectives :
 
-- [X] Dev a usefull Discord bot
 - [X] Get a verified Discord bot
+- [ ] Get my domain
 - [ ] Publish my own website with Laravel
 
 # - Github Stats :
